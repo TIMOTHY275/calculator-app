@@ -1,0 +1,31 @@
+table{
+    color:#ffffff;
+    text-align: center;
+    border-collapse: collapse;
+    font: normal 3em arial,helvetica,sans-serif;
+}
+tr{
+    height:16.02vh;
+    background-color: rgb(137, 125, 125);
+    border: 1px solid;
+    
+}
+td{
+    width: 25vw;
+    border: 1px solid  rgb(137, 125, 125);
+    border-left-style: dotted;
+}
+
+.operatorButton{
+    background-color: rgb(255, 106, 0);
+
+}
+#inputbox{
+    background-color: #ffffff;
+    text-align: right;
+    width: 100%;
+    font-size: 2em;
+    color: #000000;
+    border: 0px;
+    border-radius: 8px;
+}
